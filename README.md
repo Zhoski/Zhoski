@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Zhoski! 👋
 
-<!--
-**Zhoski/Zhoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Low-Level & OS Developer
+Я пишу свою 32-битную операционную систему **Atom-x86** на Си и Ассемблере. Люблю копаться в портах ввода-вывода и в регистрах процессора.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Сейчас я работаю над:
+- **[Atom-x86](https://github.com/Zhoski/Atom-x86)**: Моя собственная ОС с нуля.
+
+## 🧰 Стек технологий:
+- **Языки:** C, x86 Assembly (NASM)
+- **Инструменты:** QEMU, GCC Cross-Compiler, Make, Git
+- **Знаю:** x86 Architecture, Real/Protected Mode, Low-level I/O
+
+---
+*«Когда ядро падает в Panic — это не ошибка, это повод для дебага.»*
