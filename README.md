@@ -1,5 +1,5 @@
 # Я Zhoski 👋
-<img src="https://jsdelivr.net" alt="C" width="40" height="40"/>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Zhoski&theme=github_dark&layout=compact)
 
 Занимаюсь низкоуровневой разработкой, пишу движки, знаю несколько языков, шарю за x86 архитектуру.
 
