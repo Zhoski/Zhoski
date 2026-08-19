@@ -17,8 +17,8 @@
 ![atom](https://img.shields.io/badge/Atom%20x86-000000?style=for-the-badge&logo=windows-11&logoColor=)
 ---
 ### My PC
-![amd](https://img.shields.io/badge/AMD%20Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![gpu](https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![amd](https://img.shields.io/badge/AMD%20Ryzen_5_5500-000000?style=for-the-badge&logo=amd&logoColor=white)
+![gpu](https://img.shields.io/badge/NVIDIA-RTX4060-000000?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Ram](https://img.shields.io/badge/16GB%20RAM-000000?style=for-the-badge)
 
 [![github-stats-card](https://stats-card.pages.dev/lang?user=Zhoski&layout=compact&type=donut&theme=dark )](https://github.com/KasRoudra/github-stats-card)
