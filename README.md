@@ -1,5 +1,5 @@
 # Я Zhoski 👋
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Zhoski&theme=github_dark&layout=compact)
+[![github-stats-card](https://stats-card.pages.dev/lang?user=Zhoski&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card)
 
 Занимаюсь низкоуровневой разработкой, пишу движки, знаю несколько языков, шарю за x86 архитектуру.
 
