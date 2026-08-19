@@ -18,8 +18,6 @@
 ![gpu](https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Ram](https://img.shields.io/badge/16G%20RAM-000000?style=for-the-badge)
 
-<p align="center">
-  <a href=[![github-stats-card](https://stats-card.pages.dev/lang?user=Zhoski&layout=compact&type=donut&theme=dark )](https://github.com/KasRoudra/github-stats-card) /></a>
-  <a href=[![github-stats-card](https://stats-card.pages.dev/repo?user=Zhoski&repo=Atom-x86&layout=compact&theme=dark)](https://github.com/Zhoski/Atom-x86) /></a>
-</p>
+[![github-stats-card](https://stats-card.pages.dev/lang?user=Zhoski&layout=compact&type=donut&theme=dark )](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://stats-card.pages.dev/repo?user=Zhoski&repo=Atom-x86&layout=compact&theme=dark)](https://github.com/Zhoski/Atom-x86)
 
