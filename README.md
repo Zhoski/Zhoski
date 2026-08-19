@@ -1,6 +1,6 @@
 # Я Zhoski 👋
 [![github-stats-card](https://stats-card.pages.dev/lang?user=Zhoski&layout=compact&type=donut&theme=tokyonight )](https://github.com/KasRoudra/github-stats-card)
-![github-stats-card](https://stats-card.pages.dev/repo?user=Zhoski&repo=Atom-x86&layout=compact&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
+![github-stats-card](https://stats-card.pages.dev/repo?user=Zhoski&repo=Atom-x86&layout=compact&theme=tokyonight)]
 
 Занимаюсь низкоуровневой разработкой, пишу движки, знаю несколько языков, шарю за x86 архитектуру.
 
