@@ -19,6 +19,7 @@
 ![Ram](https://img.shields.io/badge/16G%20RAM-000000?style=for-the-badge)
 
 <p align="center">
-  <a href="//github.com/Zhoski/github-stats-card"><img src="//stats-card.pages.dev/lang?user=Zhoski&layout=compact&type=donut&theme=dark" width="45%" /></a>
-  <a href="//github.com/Zhoski/Atom-x86"><img src="//stats-card.pages.dev/repo?user=Zhoski&repo=Atom-x86&layout=compact&theme=dark" width="45%" /></a>
+  <a href=[![github-stats-card](https://stats-card.pages.dev/lang?user=Zhoski&layout=compact&type=donut&theme=dark )](https://github.com/KasRoudra/github-stats-card) /></a>
+  <a href=[![github-stats-card](https://stats-card.pages.dev/repo?user=Zhoski&repo=Atom-x86&layout=compact&theme=dark)](https://github.com/Zhoski/Atom-x86) /></a>
 </p>
+
