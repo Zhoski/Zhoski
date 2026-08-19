@@ -8,7 +8,7 @@
 ![ASM](https://img.shields.io/badge/ASM-000000?style=for-the-badge)
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ---
-### My OS
+### OS's i use
 ![u](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_11-000000?style=for-the-badge&logo=windows-11&logoColor=)
 ![atom](https://img.shields.io/badge/Atom%20x86-000000?style=for-the-badge&logo=windows-11&logoColor=)
@@ -18,6 +18,5 @@
 ![gpu](https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Ram](https://img.shields.io/badge/16G%20RAM-000000?style=for-the-badge)
 
-[![github-stats-card](https://stats-card.pages.dev/lang?user=Zhoski&layout=compact&type=donut&theme=dark )](https://github.com/KasRoudra/github-stats-card)
-[![github-stats-card](https://stats-card.pages.dev/repo?user=Zhoski&repo=Atom-x86&layout=compact&theme=dark)](https://github.com/Zhoski/Atom-x86)
+[![github-stats-card](https://stats-card.pages.dev/lang?user=Zhoski&layout=compact&type=donut&theme=dark)](https://github.com/KasRoudra/github-stats-card) [![github-stats-card](https://stats-card.pages.dev/repo?user=Zhoski&repo=Atom-x86&layout=compact&theme=dark)](https://github.com/Zhoski/Atom-x86)
 
