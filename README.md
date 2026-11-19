@@ -2,8 +2,8 @@
 
 ### 16-year-old programmer passionate about low-level and systems development.
 
-- 🚀 **Currently working on:** **[Atom-x86](https://github.com/Zhoski/Atom-x86)** — a 32-bit operating system written from scratch.
-- 🎯 **My goal:** To bring Atom-x86 to a stable release.
+- 🚀 **Currently working on:** **[Insula](https://github.com/Zhoski/Atom-x86)** — a 32-bit operating system written from scratch.
+- 🎯 **My goal:** Bring Insula to full self-sufficiency.
 - 📚 **Learning:** Deeply studying the x86 processor architecture.
 ---
 ### Languages ​​I write in
