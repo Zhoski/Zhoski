@@ -22,4 +22,4 @@
 ![Ram](https://img.shields.io/badge/16GB%20RAM-000000?style=for-the-badge)
 
 [![github-stats-card](https://stats-card.pages.dev/lang?user=Zhoski&layout=compact&type=donut&theme=dark )](https://github.com/KasRoudra/github-stats-card)
-[![github-stats-card](https://stats-card.pages.dev/repo?user=Zhoski&repo=Atom-x86&layout=compact&theme=dark)](https://github.com/Zhoski/Atom-x86)
+[![github-stats-card](https://stats-card.pages.dev/repo?user=Zhoski&repo=InsulaOS&layout=compact&theme=dark)](https://github.com/Zhoski/Atom-x86)
