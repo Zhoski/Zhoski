@@ -14,7 +14,7 @@
 ### Operating Systems
 ![u](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_11-000000?style=for-the-badge&logo=windows-11&logoColor=)
-![atom](https://img.shields.io/badge/Atom%20x86-000000?style=for-the-badge&logo=windows-11&logoColor=)
+![atom](https://img.shields.io/badge/Insula-000000?style=for-the-badge&logo=windows-11&logoColor=)
 ---
 ### My PC
 ![amd](https://img.shields.io/badge/AMD%20Ryzen_5_5500-000000?style=for-the-badge&logo=amd&logoColor=white)
